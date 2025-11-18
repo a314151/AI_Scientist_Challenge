@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LitLLMs, LLMs for Literature Review: Are we there yet?
 
 https://arxiv.org/abs/2412.15249
@@ -55,7 +54,3 @@ If you found this work useful, please cite:
   year={2024}
 }
 ```
-=======
-# AI_Scientist_Challenge
-literature review track
->>>>>>> abc3c65e12a932f28e1cb193a6263719d0cdc1e8
